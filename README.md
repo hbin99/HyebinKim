@@ -1,7 +1,12 @@
 # HyebinKim
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20HyebinKim's%20GitHub%20👋&fontSize=40)
 
-### BackEnd Developer
+### Hi there 👋   
+
+ - 💻   **I'm a BackEnd Developer**    
+
+ - 🇰🇷  **I'm working in South Korea**
+
 ## Statistics
   <div align=center>
   
