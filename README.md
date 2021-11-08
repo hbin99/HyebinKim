@@ -5,8 +5,6 @@
 
  - 💻   **I'm a BackEnd Developer**    
 
- - 🇰🇷  **I'm working in South Korea**
-
 ## Statistics
   <div align=center>
   
